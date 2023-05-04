@@ -25,7 +25,7 @@ The owner of the E-Commerce Store wants us to create an interactive dashboard to
 
 <img width="746" alt="Final" src="https://user-images.githubusercontent.com/132562651/236186633-36dbd796-ef3f-46fd-9465-79aebb046236.png">
 
-##**Project Insight**
+## **Project Insight**
 
 1. The store generates the maximum sells from Footwear, jewellery and indianwear categories.
 
