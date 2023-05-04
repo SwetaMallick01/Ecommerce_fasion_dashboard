@@ -23,7 +23,10 @@ The owner of the E-Commerce Store wants us to create an interactive dashboard to
 
 4. Used different types of customized visualization (bar chart, clustered bar chart,line chart, slicers, etc).
 
-<img width="746" alt="Final" src="https://user-images.githubusercontent.com/132562651/236186633-36dbd796-ef3f-46fd-9465-79aebb046236.png">
+## **DASHBOARD**
+
+<img width="749" alt="Frto" src="https://user-images.githubusercontent.com/132562651/236206308-9320de6c-cf14-4b93-8ef5-d97283af9003.png">
+
 
 ## **Project Insight**
 
